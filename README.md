@@ -18,4 +18,4 @@
 #### 12. Now i use .fit() to fit my model to the training data. I have run it through 15 epochs, which essentially means the number of times that the learning algorithm will work through the entire training dataset(which is 15 times)
 #### 13. Finally, I perform step 8 again, this time taking X_val in consideration. I get my classification report.
 #### 14. Don't forget to use .argmax(val_preds,axis=1) after defining val_preds. It's a 2D array, and it throws a Classification metrics can't handle a mix of multiclass and continuous-multioutput targets error.
-#### 14. This commences my entry for this task, thank you for giving me this opportunity. 
+#### 15. This commences the solution to the problem statement.
