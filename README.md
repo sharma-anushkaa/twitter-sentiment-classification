@@ -1,7 +1,7 @@
 ## The task at hand is sentiment classification using Natural Language Processing.
-# I have classified the tweets by implementing Sentiment analysis on the dataset link given below. The objective is to recognize whether the given tweet is oriented as negative (-1), neutral (0), or positive (1) tone. 
+### I have classified the tweets by implementing Sentiment analysis on the dataset link given below. The objective is to recognize whether the given tweet is oriented as negative (-1), neutral (0), or positive (1) tone. 
 
-## dataset link: https://www.kaggle.com/saurabhshahane/twitter-sentiment-dataset
+### dataset link: https://www.kaggle.com/saurabhshahane/twitter-sentiment-dataset
 
 ### I'll be explaining what's happening in the code(IN DETAIL) here: 
 #### 1. I start off by calling the necessary modules and required libraries for the problem statement. Before running this file, do make sure you have wordcloud installed in your local system. wordcloud will essentially be used further on for visual display of positive and negative phrases in tweets.
