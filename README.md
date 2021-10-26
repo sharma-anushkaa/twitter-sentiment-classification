@@ -1,8 +1,5 @@
-# twitter-sentiment-classification
-Problem Statement: Twitter sentiment classification 
-
 # The task at hand is sentiment classification using Natural Language Processing.
-# I have classified the tweets by implementing Sentiment analysis on the dataset link I was provided. The objective was to recognize whether the given tweet is oriented as negative (-1), neutral (0), or positive (1) tone. 
+# I have classified the tweets by implementing Sentiment analysis on the dataset link given below. The objective is to recognize whether the given tweet is oriented as negative (-1), neutral (0), or positive (1) tone. 
 
 ## dataset link: https://www.kaggle.com/saurabhshahane/twitter-sentiment-dataset
 
